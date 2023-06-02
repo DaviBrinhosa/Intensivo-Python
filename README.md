@@ -1,5 +1,4 @@
-# 
-Projetos do Intensivo Python
+Python Intensive Project
 # Sobre o Projeto
 
 [Aplicação em desenvolvimento!!!]
