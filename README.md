@@ -1,4 +1,3 @@
-Python Intensive Project
 # About the project
 
 [Application under development!!!]
