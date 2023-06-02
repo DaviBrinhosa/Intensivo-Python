@@ -1,12 +1,11 @@
 Python Intensive Project
-# Sobre o Projeto
+# About the project
 
-[Aplicação em desenvolvimento!!!]
+[Application under development!!!]
 
-Este é o **intensivo-python**, é um conjunto de quatro projetos pequenos de automação em Python com o intuito de apliar os conhecimentos na área de dados.
+This is **Intensive-Python**, it is a set of four small automation projects in Python with the aim of applying knowledge in the data area.
 
-## Tecnologias Utilizadas
-
+## Technologies Used
 - Python
 - Jupyter Notebook
 - Pyautogui
